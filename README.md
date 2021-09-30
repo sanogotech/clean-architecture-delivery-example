@@ -5,10 +5,10 @@
 [![Clean Architecture](https://github.com/sanogotech/clean-architecture-delivery-example/blob/master/docs/clean-architecture-svg.png)](https://github.com/sanogotech/clean-architecture-delivery-example/blob/master/docs/clean-architecture-svg.png)
 
 
-[![Clean Architecture](https://github.com/sanogotech/clean-architecture-delivery-example/blob/master/docs/clean-architecture-svg.png)](https://github.com/sanogotech/clean-architecture-delivery-example/blob/master/docs/clean-architecture-svg.png)
-
-
 [![Clean Architecture Base](https://github.com/sanogotech/clean-architecture-delivery-example/blob/master/docs/CleanArchitectureBase.jpg)](https://github.com/sanogotech/clean-architecture-delivery-example/blob/master/docs/CleanArchitectureBase.jpg)
+
+
+[![Clean Architecture](https://github.com/sanogotech/clean-architecture-delivery-example/blob/master/docs/PackagingCleanArchitecture.png)](https://github.com/sanogotech/clean-architecture-delivery-example/blob/master/docs/PackagingCleanArchitecture.png)
 
 
 
