@@ -2,7 +2,7 @@
 
 # Clean Architecture Example
 
-[![Build Status](https://travis-ci.org/eliostvs/clean-architecture-delivery-example.svg?branch=master)](https://travis-ci.org/eliostvs/clean-architecture-delivery-example)
+[![Clean Architecture](https://github.com/sanogotech/clean-architecture-delivery-example/blob/master/docs/clean-architecture-svg.png)](https://github.com/sanogotech/clean-architecture-delivery-example/blob/master/docs/clean-architecture-svg.png)
 
 ## Description
 
