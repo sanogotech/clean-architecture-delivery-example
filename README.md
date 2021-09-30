@@ -4,6 +4,12 @@
 
 [![Clean Architecture](https://github.com/sanogotech/clean-architecture-delivery-example/blob/master/docs/clean-architecture-svg.png)](https://github.com/sanogotech/clean-architecture-delivery-example/blob/master/docs/clean-architecture-svg.png)
 
+
+
+[![Clean Architecture Package](https://github.com/sanogotech/clean-architecture-delivery-example/blob/master/docs/PackagingCleanArchitecture.png)](https://github.com/sanogotech/clean-architecture-delivery-example/blob/master/docs/PackagingCleanArchitecture.png)
+
+
+
 ## Description
 
 The architecture of the project follows the principles of Clean Architecture. It is a simple food delivery app. One can list stores, cousines, products and create food orders. JWT it is used for authentication.
