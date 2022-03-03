@@ -1,5 +1,8 @@
 [![Build Status](https://travis-ci.org/eliostvs/clean-architecture-delivery-example.svg?branch=master)](https://travis-ci.org/eliostvs/clean-architecture-delivery-example)
 
+## Docs:
+- https://sarada-sastri.medium.com/software-architecture-principles-practices-styles-a0263aa11530
+- 
 # Clean Architecture Example
 
 [![Clean Architecture](https://github.com/sanogotech/clean-architecture-delivery-example/blob/master/docs/clean-architecture-svg.png)](https://github.com/sanogotech/clean-architecture-delivery-example/blob/master/docs/clean-architecture-svg.png)
