@@ -2,7 +2,7 @@
 
 ## Docs:
 - https://sarada-sastri.medium.com/software-architecture-principles-practices-styles-a0263aa11530
--***  https://developer.ibm.com/articles/eda-and-microservices-architecture-best-practices/
+-  https://developer.ibm.com/articles/eda-and-microservices-architecture-best-practices/
 
 # Clean Architecture Example
 
